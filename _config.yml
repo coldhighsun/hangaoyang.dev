@@ -1,11 +1,8 @@
 google_analytics: G-6HVYLM3WPD
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 
 title: coldhighsun
 description: ".NET Backend Engineer — open-source tools & infrastructure libraries / .NET 后端工程师 · 开源工具与基础设施库"
 
 lang: en
-
-# GitHub Pages 会自动用 github-pages gem 构建，
-# 无需额外插件即可渲染本仓库内置支持的主题。
