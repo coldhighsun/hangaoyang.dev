@@ -39,11 +39,5 @@ See the [full list of repositories](https://github.com/coldhighsun?tab=repositor
 
 ---
 
-## GitHub Stats / GitHub 数据
-
-![coldhighsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldhighsun&show_icons=true&theme=default)
-
----
-
 ⭐ If a project helps you, a star is always appreciated!
 ⭐ 如果某个项目对你有帮助，欢迎 Star 支持！
