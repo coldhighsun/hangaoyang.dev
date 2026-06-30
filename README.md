@@ -17,6 +17,7 @@ I'm a .NET backend engineer, primarily working in the financial / trading system
 
 | Project / 项目 | Description (EN) | 简介（中文） | Language |
 |---|---|---|---|
+| 💰 [**PayBeat**](https://github.com/coldhighsun/PayBeat) | A lightweight floating widget that shows your real-time earnings as the workday ticks by. | 轻量级悬浮组件，随工作日流逝实时显示你的收入 | C# |
 | 🗄️ [**ManagedDrive**](https://github.com/coldhighsun/ManagedDrive) | A Windows RAM disk manager built on .NET 10 and [WinFsp](https://winfsp.dev). | 基于 .NET 10 + WinFsp 实现的 Windows 内存盘（RAM Disk）管理工具 | C# |
 | 📊 [**Sloc**](https://github.com/coldhighsun/Sloc) | A .NET global CLI tool for counting lines of source code, auto-detecting 23 languages, with table / JSON / HTML output and comment-health indicators. | .NET 全局命令行工具，统计源代码行数；自动识别 23 种语言，支持三种输出格式，并提供注释健康度指标 | C# |
 | ❤️‍🩹 [**HealthMonitor**](https://github.com/coldhighsun/HealthMonitor) | A lightweight .NET library that monitors application health via periodic heartbeats, firing Degraded/Recovered events on state transitions. | 轻量级 .NET 健康监测库，通过周期心跳检测应用状态，并在状态切换时触发事件 | C# |

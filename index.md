@@ -17,6 +17,7 @@ I'm a .NET backend engineer, primarily working in the financial / trading system
 
 | Project / 项目 | Description (EN) | 简介（中文） | Language |
 |---|---|---|---|
+| 💰 [**PayBeat**](https://github.com/coldhighsun/PayBeat) | A lightweight floating widget that shows your real-time earnings as the workday ticks by. | 轻量级悬浮组件，随工作日流逝实时显示你的收入 | C# |
 | 🗄️ [**ManagedDrive**](https://github.com/coldhighsun/ManagedDrive) | A Windows RAM disk manager built on .NET 10 and [WinFsp](https://winfsp.dev). | 基于 .NET 10 + WinFsp 实现的 Windows 内存盘（RAM Disk）管理工具 | C# |
 | 🔇 [**ThrottledLogging**](https://github.com/coldhighsun/ThrottledLogging) | A time-interval-based log throttler that suppresses repeated log entries per key and reports the suppressed count when logging resumes. | 基于时间窗口的日志限流器，按 Key 抑制重复日志，并在恢复时报告被抑制次数 | C# |
 | 📊 [**Sloc**](https://github.com/coldhighsun/Sloc) | A .NET global CLI tool for counting lines of source code, auto-detecting 23 languages, with table / JSON / HTML output and comment-health indicators. | .NET 全局命令行工具，统计源代码行数；自动识别 23 种语言，支持三种输出格式，并提供注释健康度指标 | C# |
