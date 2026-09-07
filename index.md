@@ -17,10 +17,11 @@ I'm a .NET backend engineer, primarily working in the financial / trading system
 
 | Project / 项目 | Description (EN) | 简介（中文） | Language |
 |---|---|---|---|
+| 📊 [**AIUsageMonitor**](https://github.com/coldhighsun/AIUsageMonitor) | Read-only CLI/WPF analytics for Claude Code's local usage data — usage reports, model breakdowns, and cost estimates without calling the Anthropic API. | 基于 Claude Code 本地数据的只读分析工具；CLI + WPF 仪表盘，生成用量报告和成本估算，无需调用 Anthropic API | C# |
 | 💰 [**PayBeat**](https://github.com/coldhighsun/PayBeat) | A lightweight floating widget that shows your real-time earnings as the workday ticks by. | 轻量级悬浮组件，随工作日流逝实时显示你的收入 | C# |
 | 🗄️ [**ManagedDrive**](https://github.com/coldhighsun/ManagedDrive) | A Windows RAM disk manager built on .NET 10 and [WinFsp](https://winfsp.dev). | 基于 .NET 10 + WinFsp 实现的 Windows 内存盘（RAM Disk）管理工具 | C# |
 | 🔇 [**ThrottledLogging**](https://github.com/coldhighsun/ThrottledLogging) | A time-interval-based log throttler that suppresses repeated log entries per key and reports the suppressed count when logging resumes. | 基于时间窗口的日志限流器，按 Key 抑制重复日志，并在恢复时报告被抑制次数 | C# |
-| 📊 [**Sloc**](https://github.com/coldhighsun/Sloc) | A .NET global CLI tool for counting lines of source code, auto-detecting 23 languages, with table / JSON / HTML output and comment-health indicators. | .NET 全局命令行工具，统计源代码行数；自动识别 23 种语言，支持三种输出格式，并提供注释健康度指标 | C# |
+| 📈 [**Sloc**](https://github.com/coldhighsun/Sloc) | A .NET CLI tool for counting lines of source code with auto-detection of 63 languages, five output formats (table, JSON, HTML, CSV, Markdown), per-file details, and comment-health indicators. | .NET 命令行工具，统计源代码行数；自动识别 63 种语言，支持五种输出格式（表格、JSON、HTML、CSV、Markdown），逐文件明细与注释健康度指标 | C# |
 | ❤️‍🩹 [**HealthMonitor**](https://github.com/coldhighsun/HealthMonitor) | A lightweight .NET library that monitors application health via periodic heartbeats, firing Degraded/Recovered events on state transitions. | 轻量级 .NET 健康监测库，通过周期心跳检测应用状态，并在状态切换时触发事件 | C# |
 | 🦠 [**ClamClient.Net**](https://github.com/coldhighsun/ClamClient.Net) | Async .NET client library for ClamAV (clamd) with TCP and Unix socket support, and built-in connection pooling. | 异步 .NET ClamAV 客户端库，支持 TCP / Unix Socket，内置连接池 | C# |
 | ⏱️ [**GhostTick**](https://github.com/coldhighsun/GhostTick) | A high-precision timer toolkit for .NET, delivering `TimerEvent` values via `System.Threading.Channels` using a hybrid sleep+spin strategy. | 高精度 .NET 计时器工具包，基于 Channels 投递事件，采用睡眠+自旋混合策略实现亚毫秒级精度 | C# |
