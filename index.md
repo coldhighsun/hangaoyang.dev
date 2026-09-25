@@ -26,6 +26,7 @@ I'm a .NET backend engineer, primarily working in the financial / trading system
 | 🦠 [**ClamClient.Net**](https://github.com/coldhighsun/ClamClient.Net) | Async .NET client library for ClamAV (clamd) with TCP and Unix socket support, and built-in connection pooling. | 异步 .NET ClamAV 客户端库，支持 TCP / Unix Socket，内置连接池 | C# |
 | ⏱️ [**GhostTick**](https://github.com/coldhighsun/GhostTick) | A high-precision timer toolkit for .NET, delivering `TimerEvent` values via `System.Threading.Channels` using a hybrid sleep+spin strategy. | 高精度 .NET 计时器工具包，基于 Channels 投递事件，采用睡眠+自旋混合策略实现亚毫秒级精度 | C# |
 | 🔌 [**WebSocketFlow**](https://github.com/coldhighsun/WebSocketFlow) | Extension methods for `System.Net.WebSockets.WebSocket` that simplify receiving complete messages and asynchronously enumerating incoming messages. | 针对 `WebSocket` 的扩展方法，简化完整消息的接收与异步消息流的枚举 | C# |
+| 🚀 [**GitHubReleaseUpdater**](https://github.com/coldhighsun/GitHubReleaseUpdater) | A dependency-free .NET 10 library that turns GitHub Releases into an update source: check for a newer version, pick an asset, download with progress, and verify SHA-256. | 零依赖的 .NET 10 类库，把 GitHub Releases 作为应用更新源：检查新版本、选择资产、带进度下载并进行 SHA-256 校验 | C# |
 
 See the [full list of repositories](https://github.com/coldhighsun?tab=repositories).
 完整项目列表见[我的仓库主页](https://github.com/coldhighsun?tab=repositories)。
